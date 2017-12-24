@@ -1,3 +1,6 @@
 hapham software
 cty phan mem bbos
 go vap, tp ho chi minh
+IOS
+Iphone
+Android
